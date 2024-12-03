@@ -8,4 +8,4 @@ I will spin a wheel consisting of Rust and C++ before every puzzle, and it decid
 
 ## Code Quality
 
-The solutions here are mine, and most are my first attempts; hence, they are not polished and may feel dirty at times. They work, but may not be the most optimal or best solution to the problem. Pull requests are welcome :).
+The solutions here are mine, and most are my first attempts (due to time constraints); hence, they are not polished and may feel dirty at times. They work, but may not be the most optimal or best solution to the problem. Pull requests are welcome :).
